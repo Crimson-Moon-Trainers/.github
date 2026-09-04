@@ -19,13 +19,13 @@ Free, open source. Opens with `Insert`.
 > [!IMPORTANT]
 > Crimson Moon is a single-player action RPG. All options are **client-side only**.
 >
-> Use trainers only in single-player mode — online use may result in account restrictions [citation:2]. This trainer has **40+ functions** [citation:2][citation:10].
+> Use trainers only in single-player mode — online use may result in account restrictions. This trainer has **40+ functions**.
 
 ## What it does
 
 Crimson Moon is a dark fantasy action RPG where you battle through a cursed world, manage souls and resources, and master complex combat mechanics. The challenge is punishing. The grind is real.
 
-This trainer removes the grind. **God mode** and **unlimited health** keep you alive, **unlimited stamina and mana** let you fight forever, and **one-hit kills** clears enemies instantly. **Grant all items** gives you full inventory access, **fly mode** lets you explore any area, and **save/teleport locations** makes traversal instant [citation:2][citation:10]. **No ability cooldown** and **easy parry** turn combat into a flow state [citation:2].
+This trainer removes the grind. **God mode** and **unlimited health** keep you alive, **unlimited stamina and mana** let you fight forever, and **one-hit kills** clears enemies instantly. **Grant all items** gives you full inventory access, **fly mode** lets you explore any area, and **save/teleport locations** makes traversal instant. **No ability cooldown** and **easy parry** turn combat into a flow state.
 
 ## Features
 
@@ -68,41 +68,41 @@ This trainer removes the grind. **God mode** and **unlimited health** keep you a
 
 ## Hotkeys
 
-`Insert` opens the menu · `End` resets everything · Hotkeys rebindable in WeMod [citation:2]
+`Insert` opens the menu · `End` resets everything · Hotkeys rebindable.
 
 > [!TIP]
-> **Fly mode** + **low gravity** + **save location** = explore every secret area. Perfect for finding hidden items and shortcuts [citation:2][citation:10].
+> **Fly mode** + **low gravity** + **save location** = explore every secret area. Perfect for finding hidden items and shortcuts.
 
 > [!WARNING]
 > **One-hit kills** can trivialize boss fights. Use sparingly — the game's combat is part of the experience.
 >
-> **Anti-virus software may flag trainers** as threats due to code modification. Add the trainer to your exceptions [citation:2].
+> **Anti-virus software may flag trainers** as threats due to code modification. Add the trainer to your exceptions.
 
 ## FAQ
 
 <details>
 <summary>Will I get banned?</summary>
-No — single-player game with no anti-cheat. Use only in offline mode [citation:2].
+No — single-player game with no anti-cheat. Use only in offline mode.
 </details>
 
 <details>
 <summary>How do I install the trainer?</summary>
-Download and install WeMod, create a free account, find Crimson Moon, add the path to the game executable, and launch [citation:2].
+Download and install WeMod, create a free account, find Crimson Moon, add the path to the game executable, and launch.
 </details>
 
 <details>
 <summary>Does this work with the latest version?</summary>
-Yes — WeMod automatically detects your game version [citation:10].
+Yes — WeMod automatically detects your game version.
 </details>
 
 ## Changelog
 
-**v1.0.0** — first release. **40+ options** across Combat, Inventory, Movement, Teleport and Game Mods [citation:2][citation:10].
+**v1.0.0** — first release. **40+ options** across Combat, Inventory, Movement, Teleport and Game Mods.
 
 ---
 
 <div align="center">
-<sub>Unofficial fan tool. Not affiliated with [студия]. MIT licensed.</sub>
+<sub>Unofficial fan tool. Not affiliated with developers. MIT licensed.</sub>
 </div>
 
 <div align="center">
